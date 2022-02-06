@@ -6,7 +6,7 @@ My name is Rupak Yeware and I love building apps and websites.
 - 💬 Ask me about my youtube videos ;)
 - 📫 How to reach me: yewarerupak510@gmail.com
 - ⚡ Fun fact: I love computers more than people
-- 🙋🏽‍♂️Webiste: https://rupakyeware.github.io/
+- 🙋🏽‍♂️Website: https://rupakyeware.github.io/
 
 ![Rupak's GitHub stats](https://github-readme-stats.vercel.app/api?username=rupakyeware&show_icons=true&theme=radical)
 
