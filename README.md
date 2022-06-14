@@ -1,7 +1,7 @@
 ### Hello!
 My name is Rupak Yeware and I love building apps and websites.
 
-- 🔭 I’m currently working on building my portfolio site
+- 🔭 I’m currently working on making my own game!
 - 🌱 Learning the MERN stack!
 - 💬 Ask me about my youtube videos ;)
 - 📫 How to reach me: rupakyeware@gmail.com
