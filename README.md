@@ -1,8 +1,8 @@
 ### Hello!
 My name is Rupak Yeware and I love building apps and websites.
 
-- 🔭 I’m currently working on a new project!
-- 🌱 Learning the MERN stack!
+- 🔭 Always working on something
+- 🌱 App + Web developer
 - 💬 Ask me about why I hate C ;)
 - 📫 How to reach me: rupakyeware@gmail.com
 - ⚡ Fun fact: I love computers more than people
