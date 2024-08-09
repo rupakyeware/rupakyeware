@@ -1,7 +1,7 @@
 ### Hello!
 My name is Rupak Yeware and I love building apps and websites.
 
-- 🔭 Always working on something
+- 🔭 Working on a social fitness app!
 - 🌱 App + Web developer
 - 💬 Ask me about why I hate C ;)
 - 📫 How to reach me: rupakyeware@gmail.com
