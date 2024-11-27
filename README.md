@@ -3,10 +3,7 @@ My name is Rupak Yeware and I love building apps and websites.
 
 - 🔭 Working on a social fitness app!
 - 🌱 App + Web developer
-- 💬 Ask me about why I hate C ;)
+- 💬 Ask me about the projects I'm working on
 - 📫 How to reach me: rupakyeware@gmail.com
-- ⚡ Fun fact: I love computers more than people
-- 🙋🏽‍♂️Website: https://rupakyeware.github.io/
-
-![Rupak's GitHub stats](https://github-readme-stats.vercel.app/api?username=rupakyeware&show_icons=true&theme=radical)
-
+- ⚡ Fun fact: I am a productivity nerd
+- 🙋🏽‍♂️Website: https://www.linkedin.com/in/rupakyeware/
