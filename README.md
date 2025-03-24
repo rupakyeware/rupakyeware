@@ -1,7 +1,7 @@
 ### Hello!
 My name is Rupak Yeware and I love building apps and websites.
 
-- 🔭 Working on a social fitness app!
+- 🔭 Grinding DSA!
 - 🌱 App + Web developer
 - 💬 Ask me about the projects I'm working on
 - 📫 How to reach me: rupakyeware@gmail.com
